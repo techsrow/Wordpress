@@ -1,0 +1,5 @@
+Step 1 > Download PhpMyadmin from https://www.phpmyadmin.net/
+Step 2 > Upload PhpMyadmin Zip File in Public Html Folder
+Step 3 > Extract File With Name of phpMyAdmin 
+Step 4 > Route With http://www.yourdomain/phpMyAdmin
+Step 5 > Login Wp database user name Password Get mysql file
